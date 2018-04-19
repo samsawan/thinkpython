@@ -5,5 +5,6 @@ world = TurtleWorld()
 bob = Turtle()
 bob.delay = 0.01
 
-square(bob, 100)
+
+arc(bob, 60.0, 60.0);
 wait_for_user()

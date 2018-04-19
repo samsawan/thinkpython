@@ -1,0 +1,3 @@
+to get reloading in a py interperter
+    import importlib
+    importlib.reload(module_name)
